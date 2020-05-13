@@ -1,3 +1,7 @@
 fh:
   name: fanghao4,profile=dev,lable=master
   dream: money2
+
+server:
+  port: 3355
+
